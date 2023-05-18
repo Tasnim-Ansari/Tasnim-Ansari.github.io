@@ -1,10 +1,1 @@
-[
-  {
-    "relation": [ "delegate_permission/common.handle_all_urls" ],
-    "target": {
-      "namespace": "EdgeMobile.Droid",
-      "package_name": "com.weatherford.edgemobile",
-      "sha256_cert_fingerprints": [ "3D:51:86:CE:B6:9D:FD:3D:87:32:1F:5E:DE:35:70:1E:8A:C6:B8:83:AC:3F:71:0F:0D:6E:2D:B0:DA:3D:84:9A" ]
-    }
-  }
-]
+[]
