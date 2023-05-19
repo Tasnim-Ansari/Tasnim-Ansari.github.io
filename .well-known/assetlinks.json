@@ -4,7 +4,7 @@
     "target": {
       "namespace": "android_app",
       "package_name": "com.weatherford.edgemobile",
-      "sha256_cert_fingerprints": [ "CD:F2:0D:19:AC:0E:7D:0A:CE:AF:2E:15:04:BE:32:AF:DF:56:81:AE:65:38:24:60:85:5F:BE:E4:B7:A0:D3:D9" ]
+      "sha256_cert_fingerprints": [ "3D:51:86:CE:B6:9D:FD:3D:87:32:1F:5E:DE:35:70:1E:8A:C6:B8:83:AC:3F:71:0F:0D:6E:2D:B0:DA:3D:84:9A" ]
     }
   }
 ]
